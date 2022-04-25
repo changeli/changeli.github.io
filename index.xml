@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://changeli.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 22:26:42 +0800</lastBuildDate><atom:link href="https://changeli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog002</title>
+      <link>https://changeli.github.io/post/blog002/</link>
+      <pubDate>Mon, 25 Apr 2022 22:26:42 +0800</pubDate>
+      
+      <guid>https://changeli.github.io/post/blog002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog001</title>
+      <link>https://changeli.github.io/post/blog001/</link>
+      <pubDate>Mon, 25 Apr 2022 22:26:19 +0800</pubDate>
+      
+      <guid>https://changeli.github.io/post/blog001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
